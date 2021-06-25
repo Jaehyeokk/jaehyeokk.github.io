@@ -1,0 +1,15 @@
+{
+  "name": "jaehyeokk.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Jaehyeokk/jaehyeokk.github.io.git",
+  "author": "Jaehyeokk <lionjk92@naver.com>",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
