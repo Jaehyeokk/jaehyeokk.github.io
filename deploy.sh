@@ -10,7 +10,7 @@ yarn docs:build
 cd docs/.vuepress/dist
 
 # if you are deploying to https://<USERNAME>.github.io
-git clone https://github.com/jaehyeokk/jaehyeokk.github.io.git
+git clone -b master https://github.com/jaehyeokk/jaehyeokk.github.io.git
 
 # .git의 내용을 복사한 후 clone은 삭제한다.
 cp -rf jaehyeokk.github.io/.git ./.git
