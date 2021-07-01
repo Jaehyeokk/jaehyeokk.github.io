@@ -3,7 +3,7 @@ module.exports = {
     {
       collapsable: false,
       title: "etc.",
-      children: ["/etc/markdown/", "/etc/vscode/", "/etc/webpack/"],
+      children: ["markdown/", "vscode/", "webpack/", "deploy/"],
     },
     // {
     //   collapsable: true,
